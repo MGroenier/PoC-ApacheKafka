@@ -9,5 +9,5 @@ public class User {
 		this.name = name;
 		this.age = age;
 	}
-	
+
 }
